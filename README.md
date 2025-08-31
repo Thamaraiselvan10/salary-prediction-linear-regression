@@ -84,7 +84,7 @@ jupyter notebook linear_regression_model.ipynb
 ---
 ## 📚 Learning Outcomes
 
-- ✔ Understand the basics of Linear Regression
+- ✔ Understand the basics of Linear  Regression
 - ✔ Learn how to split data into training & testing sets
 - ✔ Visualize regression lines and predictions
 - ✔ Use a trained model for real-world predictions
