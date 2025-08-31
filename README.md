@@ -88,3 +88,4 @@ jupyter notebook linear_regression_model.ipynb
 - ✔ Learn how to split data into training & testing sets
 - ✔ Visualize regression lines and predictions
 - ✔ Use a trained model for real-world predictions
+---
