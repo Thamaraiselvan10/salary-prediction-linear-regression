@@ -60,4 +60,31 @@ Predicted Salary for 5 years of experience: 73245.67
 - ✔ Clean Jupyter Notebook with explanations for each step
 - ✔ Visual representation of regression results
 - ✔ Dynamic user input to predict salary for any years of experience
+---
+## 🔧 Installation & Usage
 
+Clone this repository:
+```
+git clone https://github.com/Thamaraiselvan10/salary-prediction-linear-regression.git
+cd salary-prediction-linear-regression
+```
+
+Install dependencies:
+```
+pip install pandas numpy matplotlib scikit-learn openpyxl
+```
+
+Launch Jupyter Notebook:
+```
+jupyter notebook linear_regression_model.ipynb
+```
+
+> [!NOTE]
+> Run all cells to train the model and visualize results.
+---
+## 📚 Learning Outcomes
+
+- ✔ Understand the basics of Linear Regression
+- ✔ Learn how to split data into training & testing sets
+- ✔ Visualize regression lines and predictions
+- ✔ Use a trained model for real-world predictions
